@@ -1,0 +1,2 @@
+# ShunAI-about
+Shūn.AI isn’t just another AI project — it’s a movement. 🌟 Focused on pushing the limits of machine intelligence and real-world problem-solving, Shūn.AI is here to change how we experience technology. Our mission? Build an AI that understands, adapts, and evolves. it's currently in its early phase Built with Next.js, TypeScript
