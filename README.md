@@ -1,2 +1,5 @@
-# ShunAI-about
-Shūn.AI isn’t just another AI project — it’s a movement. 🌟 Focused on pushing the limits of machine intelligence and real-world problem-solving, Shūn.AI is here to change how we experience technology. Our mission? Build an AI that understands, adapts, and evolves. it's currently in its early phase Built with Next.js, TypeScript
+# ShunAI — Project Overview
+
+ShunAI is an early-stage project exploring a chat interface for an AI assistant. The public implementation is in [Kethanvr/ShunAI](https://github.com/Kethanvr/ShunAI), a Next.js and TypeScript frontend prototype.
+
+The current repository contains this overview only. The implementation repository does not include a model-provider or chat API integration, so ShunAI is not yet a functioning AI assistant.
